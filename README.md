@@ -18,7 +18,7 @@ A responsive single-page business landing page for a mock mobile valeting servic
 - Formspree (form handling)
 
 ## Live Demo
-PASTE_YOUR_NETLIFY_LINK_HERE
+https://midlands-mobile-valeting.netlify.app/
 
 ## Run Locally
 1. Download/clone the repo
